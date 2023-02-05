@@ -1,0 +1,40 @@
+table td, th {
+  border-collapse: collapse;
+}
+table td, th {
+  border: 1px solid;
+}
+.center{
+	margin-left:auto;
+	margin-right:auto;
+}
+table {
+  width: 50%;
+  align-items:center;
+  text-align:center;
+}
+h2{
+   width: 50%;
+  align-items:center;
+  text-align:center;
+  font-family: arial, sans-serif;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+#Weekdays tr:nth-child(even){background-color: #f2f2f2;}
+
+
+#Weekdays tr:hover {background-color: #ddd;}
+#Weekdays th {
+  background-color: #68808C;
+  color: white;
+}
